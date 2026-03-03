@@ -15,13 +15,13 @@ dependencies = [
   "mink>=1.0.0",
   "numpy>=2.2.5",
   "openpyxl>=3.1.5",
+  "pyglet<=1.5.27",
   "pynput>=1.7.6",
   "scikit-learn>=1.6.0",
   "scipy>=1.11.0",
   "smplx",
   "torch>=2.6.0",
   "transforms3d>=0.4.2",
-  "pyglet<=1.5.27",
 ]
 
 [dependency-groups]
