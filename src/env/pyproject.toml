@@ -21,6 +21,7 @@ dependencies = [
   "smplx",
   "torch>=2.6.0",
   "transforms3d>=0.4.2",
+  "pyglet<=1.5.27",
 ]
 
 [dependency-groups]
